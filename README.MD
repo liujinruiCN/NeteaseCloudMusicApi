@@ -1,5 +1,7 @@
 # 网易云音乐 API
 
+[![Join the chat at https://gitter.im/RealityTreasure/CppTalkRoom](https://badges.gitter.im/RealityTreasure/CppTalkRoom.svg)](https://gitter.im/RealityTreasure/CppTalkRoom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 网易云音乐 Node.js API service
 
 <p>
